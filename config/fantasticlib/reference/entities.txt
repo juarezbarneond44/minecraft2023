@@ -87,9 +87,6 @@ advanced-fishing:lava_fish_hook
 advanced-fishing:fireproof_item
 aquaculture:custom_fish_hook
 quark:chest_passenger
-quark:dragon_breath_bottle
-quark:soul_powder
-quark:parrot_egg
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
@@ -99,6 +96,9 @@ quark:archaeologist
 quark:foxhound
 quark:pirate
 quark:crab
+quark:dragon_breath_bottle
+quark:soul_powder
+quark:parrot_egg
 mujmajnkraftsbettersurvival:entityflyingspear
 betternether:firefly
 bountifulbaubles:grenade
@@ -116,8 +116,8 @@ familiarfauna:familiarfauna.snail
 familiarfauna:familiarfauna.turkey
 fishingmadebetter:fmblavafishhook
 fishingmadebetter:fmbvoidfishhook
-ichunutil:entity_block
 grapplemod:grapplemod
+ichunutil:entity_block
 testdummy:dummy
 testdummy:floating_number
 testdummy:floating_number_dps
