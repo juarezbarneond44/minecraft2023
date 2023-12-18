@@ -1,0 +1,13 @@
+VillageForgeLarge,2041,2057,-1815,-1803
+P_VillageInn,2052,2063,-1786,-1777
+VillageInn,2043,2063,-1763,-1736
+VillageGuardTower,2070,2082,-1763,-1751
+P_VillageFarmhouse,2075,2087,-1786,-1774
+RLCraft_FriendlyOutpost,2040,2108,-1647,-1608
+RLCraft_Vineyard,2105,2125,-1812,-1784
+UndergroundCultChamber,2112,2154,-1702,-1670
+RLCraft_SmallUndergroundSkeleton,2192,2200,-1782,-1774
+RLCraft_SmallUndergroundSkeleton,2233,2241,-1834,-1826
+RLCraft_DecentSpider,2277,2277,-1734,-1734
+RLCraft_UndergroundRuin3,2271,2279,-1739,-1731
+PeacefulCrypt,2257,2281,-1597,-1581
