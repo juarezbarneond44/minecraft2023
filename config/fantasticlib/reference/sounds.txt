@@ -1948,8 +1948,8 @@ locks:lock.rattle
 locks:pin.fail
 locks:pin.match
 locks:shock
-reborncore:block_dismantle
 notreepunching:knapping
+reborncore:block_dismantle
 artifacts:fart
 artifacts:bubble_wrap
 artifacts:mimic.close
