@@ -1,32 +1,14 @@
 {
-  "lycanitesmobs:rabbitooze": [
+  "tconstruct:molten_nickel": [
     {
       "properties": {},
-      "temperature": -12.5
+      "temperature": 12.5
     }
   ],
-  "rustic:candle_gold": [
+  "tconstruct:molten_iron": [
     {
       "properties": {},
-      "temperature": 1.0
-    }
-  ],
-  "campfire:campfire": [
-    {
-      "properties": {},
-      "temperature": 6.0
-    }
-  ],
-  "lycanitesmobs:frostfire": [
-    {
-      "properties": {},
-      "temperature": -5.0
-    }
-  ],
-  "lycanitesmobs:icefire": [
-    {
-      "properties": {},
-      "temperature": -8.0
+      "temperature": 12.5
     }
   ],
   "simpledifficulty:campfire": [
@@ -43,7 +25,31 @@
       "temperature": 0.0
     }
   ],
-  "lycanitesmobs:purelava": [
+  "tconstruct:molten_emerald": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_bronze": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_dirt": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_manyullyn": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_silver": [
     {
       "properties": {},
       "temperature": 12.5
@@ -61,10 +67,30 @@
       "temperature": 1.0
     }
   ],
-  "minecraft:lava": [
+  "tconstruct:molten_ardite": [
     {
       "properties": {},
       "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_glass": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:firewood_slab": [
+    {
+      "properties": {
+        "type": "LAVAWOOD"
+      },
+      "temperature": 5.0
+    },
+    {
+      "properties": {
+        "type": "FIREWOOD"
+      },
+      "temperature": 7.0
     }
   ],
   "minecraft:magma": [
@@ -73,10 +99,10 @@
       "temperature": 7.0
     }
   ],
-  "minecraft:lit_furnace": [
+  "tconstruct:molten_steel": [
     {
       "properties": {},
-      "temperature": 4.0
+      "temperature": 12.5
     }
   ],
   "lycanitesmobs:ooze": [
@@ -85,16 +111,34 @@
       "temperature": -12.5
     }
   ],
+  "tconstruct:molten_obsidian": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
   "minecraft:torch": [
     {
       "properties": {},
       "temperature": 1.0
     }
   ],
-  "minecraft:flowing_lava": [
+  "tconstruct:molten_electrum": [
     {
       "properties": {},
       "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_copper": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:lavawood_stairs": [
+    {
+      "properties": {},
+      "temperature": 5.0
     }
   ],
   "lycanitesmobs:moglava": [
@@ -107,6 +151,152 @@
     {
       "properties": {},
       "temperature": 1.0
+    }
+  ],
+  "lycanitesmobs:rabbitooze": [
+    {
+      "properties": {},
+      "temperature": -12.5
+    }
+  ],
+  "rustic:candle_gold": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "tconstruct:molten_gold": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_clay": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_cobalt": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "campfire:campfire": [
+    {
+      "properties": {},
+      "temperature": 6.0
+    }
+  ],
+  "tconstruct:molten_tin": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "lycanitesmobs:frostfire": [
+    {
+      "properties": {},
+      "temperature": -5.0
+    }
+  ],
+  "lycanitesmobs:icefire": [
+    {
+      "properties": {},
+      "temperature": -8.0
+    }
+  ],
+  "tconstruct:molten_zinc": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:firewood": [
+    {
+      "properties": {
+        "type": "LAVAWOOD"
+      },
+      "temperature": 5.0
+    },
+    {
+      "properties": {
+        "type": "FIREWOOD"
+      },
+      "temperature": 7.0
+    }
+  ],
+  "lycanitesmobs:purelava": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_lead": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_aluminum": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_knightslime": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_pigiron": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_stone": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:firewood_stairs": [
+    {
+      "properties": {},
+      "temperature": 7.0
+    }
+  ],
+  "minecraft:lava": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "tconstruct:molten_brass": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "minecraft:lit_furnace": [
+    {
+      "properties": {},
+      "temperature": 4.0
+    }
+  ],
+  "tconstruct:molten_alubrass": [
+    {
+      "properties": {},
+      "temperature": 12.5
+    }
+  ],
+  "minecraft:flowing_lava": [
+    {
+      "properties": {},
+      "temperature": 12.5
     }
   ]
 }
