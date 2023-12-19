@@ -1,2 +1,0 @@
-MeteorSite,1895,1910,-1531,-1501
-SmallAbandonedMine,1944,1969,-1536,-1521
