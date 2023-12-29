@@ -1,0 +1,4 @@
+ShrineSmallAir,2975,2983,13276,13284
+DinosaurSkeleton,3034,3080,13248,13257
+RLCraft_DecentSkeleton,3022,3022,12886,12886
+RLCraft_UndergroundRuin2,3017,3027,12884,12891

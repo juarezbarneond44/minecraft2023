@@ -1,0 +1,5 @@
+P_VillageFarmhouse,-9479,-9467,7730,7742
+RLCraft_DecentZombie,-9600,-9600,7761,7761
+RLCraft_UndergroundRuin3,-9605,-9597,7759,7767
+RLCraft_DecentSkeleton,-9343,-9343,7715,7715
+RLCraft_UndergroundRuin2,-9345,-9338,7710,7720

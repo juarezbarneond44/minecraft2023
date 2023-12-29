@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,-654,-646,2532,2540
+RLCraft_BasicCaveSpider,-605,-605,2500,2500
+RLCraft_UndergroundRuin1,-611,-602,2497,2506
+BrickHenge,-524,-508,2494,2510

@@ -1,0 +1,5 @@
+VillageMarketplace,1552,1566,3572,3586
+P_VillageInn,1574,1583,3570,3581
+RLCraft_DecentCaveSpider,2045,2045,3215,3215
+RLCraft_UndergroundRuin2,2040,2047,3210,3220
+ShrineSmallEarth,1983,1995,3132,3144

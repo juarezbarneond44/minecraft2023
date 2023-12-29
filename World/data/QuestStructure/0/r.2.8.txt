@@ -1,0 +1,6 @@
+ShrineSmallAir,1514,1522,4193,4201
+StonePlantBoulder,1020,1030,4328,4338
+StonePlantMound2,1056,1068,4303,4316
+RLCraft_SmallUndergroundSkeleton,1070,1078,4321,4329
+ShrineSmallFire,1079,1089,4141,4151
+StonePlantMound3,1085,1094,4333,4344

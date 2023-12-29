@@ -1,0 +1,13 @@
+StoneLeafMound,2730,2739,4628,4635
+RLCraft_BasicCaveSpider,2784,2784,4767,4767
+RLCraft_UndergroundRuin1,2781,2790,4761,4770
+RLCraft_DecentSpider,2800,2800,4664,4664
+RLCraft_UndergroundRuin3,2798,2806,4661,4669
+RLCraft_DecentSpider,2617,2617,4881,4881
+RLCraft_UndergroundRuin3,2612,2620,4875,4883
+StoneBoulder,2846,2855,4652,4661
+RLCraft_BasicSkeleton,2967,2967,4668,4668
+RLCraft_UndergroundRuin1,2961,2970,4662,4671
+StonePlantMound,2987,2992,4669,4674
+RLCraft_DecentWitch,2629,2629,4984,4984
+RLCraft_UndergroundRuin2,2624,2634,4982,4989

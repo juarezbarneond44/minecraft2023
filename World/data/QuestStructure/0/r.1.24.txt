@@ -1,0 +1,17 @@
+StonePlantMound2,663,676,12284,12296
+SmallAbandonedMine,691,706,12285,12310
+RLCraft_DecentCaveSpider,635,635,12411,12411
+RLCraft_UndergroundRuin2,630,640,12409,12416
+PeacefulCrypt,705,729,12366,12382
+StonePlantMound4,741,748,12351,12358
+ShrineSmallAir,734,742,12413,12421
+RLCraft_LargeUndergroundTown,680,817,12308,12421
+StoneLeafMound,968,977,12310,12317
+StonePlantMound2,984,996,12295,12308
+RLCraft_SmallUndergroundSkeleton,620,628,12500,12508
+StonePlantBoulder,700,710,12528,12538
+StonePlantMound1,900,906,12306,12312
+UndergroundTreeoid,896,919,12431,12457
+PeacefulCrypt,745,769,12555,12571
+WoodWallRemains,852,860,12738,12766
+StonePlantMound1,996,1002,12779,12785

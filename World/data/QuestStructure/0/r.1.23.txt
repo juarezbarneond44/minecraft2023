@@ -1,0 +1,5 @@
+SmallWoodenCottage1,512,523,12239,12245
+DinosaurSkull,584,603,12167,12178
+SmallWoodenCottage2,612,620,12281,12289
+ShrineSmallFire,646,656,12182,12192
+ShrineSmallFire,926,936,12252,12262

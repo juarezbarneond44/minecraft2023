@@ -1,0 +1,6 @@
+UndergroundCultChamber,2750,2792,13332,13364
+RLCraft_AgentStarbuck_WaterBase,2685,2702,13566,13578
+ShrineSmallWater,2970,2978,13425,13433
+StonePlantMound3,3057,3066,13351,13362
+RLCraft_UndergroundFarm,3022,3064,13326,13369
+MeteorSite,3041,3071,13360,13375

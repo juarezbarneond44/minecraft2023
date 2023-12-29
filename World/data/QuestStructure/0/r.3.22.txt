@@ -1,0 +1,3 @@
+ShrineSmallAir,1925,1933,11658,11666
+UndergroundTreeoid,1835,1861,11524,11547
+P_MayanTemple1,1820,1850,11738,11784

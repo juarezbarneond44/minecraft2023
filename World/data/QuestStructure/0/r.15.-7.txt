@@ -1,0 +1,11 @@
+ForestBeacon,8150,8158,-3921,-3913
+SmallOutpost,8163,8185,-3799,-3769
+P_AncientTeleporter,8067,8100,-4058,-4023
+MysticalTree1,8135,8148,-3680,-3669
+HillAltarHouse,8041,8086,-3715,-3658
+StonePlantMound3,8162,8173,-3650,-3641
+ShrineSmallAir,8015,8023,-3936,-3928
+RLCraft_SmallUndergroundSkeleton,8084,8092,-3615,-3607
+PeacefulCrypt,8098,8114,-3626,-3602
+StonePlantMound3,7941,7950,-3886,-3875
+StonePlantMound,7909,7914,-3747,-3742

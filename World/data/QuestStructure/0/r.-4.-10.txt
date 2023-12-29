@@ -1,0 +1,6 @@
+RLCraft_DecentSkeleton,-2212,-2212,-5387,-5387
+RLCraft_UndergroundRuin3,-2217,-2209,-5389,-5381
+RLCraft_KillerRabbit,-2335,-2260,-5223,-5149
+RLCraft_SmallUndergroundSkeleton,-2156,-2148,-5389,-5381
+SmallAbandonedMine,-2162,-2137,-5214,-5199
+BlazeSpawnerCrystal,-2440,-2434,-5479,-5473

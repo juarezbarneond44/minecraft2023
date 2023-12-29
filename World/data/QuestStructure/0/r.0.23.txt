@@ -1,0 +1,9 @@
+WoodWallRemains,-165,-137,11867,11875
+SmallFortRuins,-102,-72,11943,11975
+SmallFortRuins,89,119,11984,12016
+ShrineSmallFire,244,254,11934,11944
+RLCraft_BasicCaveSpider,199,199,12024,12024
+RLCraft_UndergroundRuin1,196,205,12021,12030
+DinosaurSkeleton,327,373,11957,11966
+StonePlantMound,341,346,11935,11940
+StonePlantMound2,339,352,11885,11897

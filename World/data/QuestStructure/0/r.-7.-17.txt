@@ -1,0 +1,6 @@
+RLCraft_DecentCaveSpider,-3702,-3702,-9032,-9032
+RLCraft_UndergroundRuin2,-3707,-3700,-9037,-9027
+BrickHenge,-3732,-3716,-8971,-8955
+StoneLeafMound,-3750,-3743,-9111,-9102
+RLCraft_DecentZombie,-3759,-3759,-9081,-9081
+RLCraft_UndergroundRuin3,-3764,-3756,-9087,-9079

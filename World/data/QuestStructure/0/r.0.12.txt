@@ -1,0 +1,9 @@
+RLCraft_BasicCaveSpider,-59,-59,6256,6256
+RLCraft_UndergroundRuin1,-65,-56,6253,6262
+RLCraft_BasicCaveSpider,-249,-249,6515,6515
+RLCraft_UndergroundRuin1,-255,-246,6512,6521
+P_Tent,-281,-272,6529,6538
+SmallAbandonedOutpost,-149,-127,6563,6593
+MeteorSite,-129,-99,6636,6651
+RLCraft_DecentZombie,-100,-100,6636,6636
+RLCraft_UndergroundRuin3,-103,-95,6634,6642

@@ -1,0 +1,13 @@
+DinosaurSkull,4443,4454,-1422,-1403
+StoneBoulder,4484,4493,-1421,-1412
+ClayWaterMound,4357,4364,-1359,-1351
+StonePlantMound4,4411,4418,-1296,-1289
+StonePlantMound2,4328,4341,-1348,-1336
+StoneLeafMound,4546,4555,-1408,-1401
+RLCraft_BasicWitch,4448,4448,-1524,-1524
+RLCraft_UndergroundRuin1,4442,4451,-1530,-1521
+RLCraft_FriendlyOutpost,4543,4582,-1433,-1365
+StonePlantMound1,4555,4561,-1466,-1460
+RLCraft_DecentCaveSpider,4269,4269,-1486,-1486
+RLCraft_UndergroundRuin2,4264,4274,-1491,-1484
+StonePlantBoulder,4282,4292,-1508,-1498

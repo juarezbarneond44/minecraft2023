@@ -1,0 +1,2 @@
+ShrineSmallAir,4610,4618,8715,8723
+BlazeSpawnerCrystal,4713,4719,8860,8866

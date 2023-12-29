@@ -1,0 +1,7 @@
+AbandonedWoodTower,36,66,7937,7973
+P_LargeShip,69,129,7992,8010
+P_Tent,205,214,7689,7698
+RLCraft_DecentSpider,-64,-64,8159,8159
+RLCraft_UndergroundRuin3,-69,-61,8157,8165
+SmallOutpost,204,234,8176,8198
+RLCraft_SmallUndergroundSkeleton,234,242,8134,8142

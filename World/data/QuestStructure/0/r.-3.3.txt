@@ -1,0 +1,13 @@
+ShrineSmallWater,-1569,-1561,2043,2051
+RLCraft_SmallUndergroundSkeleton,-1617,-1609,1985,1993
+StonePlantMound2,-1585,-1572,1983,1995
+StonePlantMound1,-1572,-1566,1924,1930
+RLCraft_SmallUndergroundSkeleton,-1774,-1766,1882,1890
+StonePlantMound2,-1628,-1616,1828,1841
+StonePlantMound4,-1569,-1562,1841,1848
+RLCraft_PlainsCamp,-1561,-1515,1822,1861
+StonePlantMound,-1576,-1571,1799,1804
+ShrineSmallAir,-1740,-1732,1750,1758
+StonePlantMound3,-1562,-1553,1598,1609
+StonePlantMound4,-1838,-1831,1728,1735
+StonePlantMound3,-1712,-1703,1554,1565

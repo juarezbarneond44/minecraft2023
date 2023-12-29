@@ -1,0 +1,3 @@
+StonePlantBoulder,-540,-530,-9020,-9010
+SmallWoodenCottage1,-596,-585,-8972,-8966
+StoneLeafMound,-600,-591,-9015,-9008

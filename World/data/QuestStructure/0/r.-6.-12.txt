@@ -1,0 +1,5 @@
+StonePlantMound2,-3583,-3570,-6159,-6147
+SmallOutpost,-3588,-3566,-6211,-6181
+StonePlantMound,-3516,-3511,-6162,-6157
+RLCraft_BasicCaveSpider,-3556,-3556,-6271,-6271
+RLCraft_UndergroundRuin1,-3559,-3550,-6277,-6268

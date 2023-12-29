@@ -1,0 +1,15 @@
+StonePlantMound,-119,-114,8804,8809
+StonePlantMound3,-61,-52,8831,8842
+RLCraft_DecentWitch,121,121,8911,8911
+RLCraft_UndergroundRuin2,116,123,8906,8916
+StonePlantMound2,32,45,8914,8926
+RLCraft_DecentWitch,-9,-9,8922,8922
+RLCraft_UndergroundRuin3,-12,-4,8920,8928
+StonePlantMound1,54,60,8917,8923
+RLCraft_SmallUndergroundSkeleton,-135,-127,8963,8971
+StonePlantMound,153,158,8957,8962
+StonePlantMound4,-58,-51,8971,8978
+GiganticTree,-164,-95,8955,9033
+StoneBoulder,5,14,8984,8993
+RLCraft_SmallUndergroundSkeleton,-167,-159,8844,8852
+ClayWaterMound1,-164,-153,8769,8779

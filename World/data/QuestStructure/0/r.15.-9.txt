@@ -1,0 +1,12 @@
+RLCraft_DecentCaveSpider,8146,8146,-4712,-4712
+RLCraft_UndergroundRuin2,8141,8151,-4714,-4707
+StoneLeafMound,8179,8188,-4745,-4738
+P_SpookyHouse,7748,7788,-4644,-4618
+StonePlantMound4,7935,7942,-4741,-4734
+RLCraft_DecentSkeleton,8152,8152,-4786,-4786
+RLCraft_UndergroundRuin3,8147,8155,-4792,-4784
+MysticalTree1,7865,7878,-4847,-4836
+StoneLeafMound,8124,8133,-4854,-4847
+StoneBoulder,8142,8151,-4843,-4834
+StonePlantMound1,8050,8056,-4883,-4877
+ShrineSmallAir,8066,8074,-4878,-4870

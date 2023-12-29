@@ -1,0 +1,5 @@
+StonePlantMound4,-3751,-3744,-6173,-6166
+ShrineSmallFire,-3685,-3675,-6213,-6203
+StonePlantMound2,-3794,-3782,-6186,-6173
+StonePlantMound4,-3792,-3785,-6212,-6205
+StonePlantBoulder,-3867,-3857,-6206,-6196

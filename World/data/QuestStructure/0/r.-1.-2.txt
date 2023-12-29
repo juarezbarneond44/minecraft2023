@@ -1,0 +1,6 @@
+StonePlantMound2,-687,-674,-1356,-1344
+StoneBoulder,-637,-628,-1389,-1380
+RLCraft_BasicWitch,-691,-691,-1394,-1394
+RLCraft_UndergroundRuin1,-697,-688,-1400,-1391
+StonePlantMound,-610,-605,-1407,-1402
+AbandonedWoodTower,-628,-598,-1422,-1386

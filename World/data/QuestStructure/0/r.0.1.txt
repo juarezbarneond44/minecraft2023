@@ -1,0 +1,11 @@
+VillageGuardTower,230,242,559,571
+P_VillageFarmhouse,209,221,582,594
+P_VillageLibrary,236,255,582,598
+RLCraft_DecentWitch,238,238,1022,1022
+RLCraft_UndergroundRuin3,232,240,1017,1025
+RLCraft_DecentSpider,0,0,1023,1023
+RLCraft_UndergroundRuin2,-5,2,1018,1028
+RLCraft_DecentWitch,47,47,940,940
+RLCraft_UndergroundRuin2,45,52,935,945
+FallenPalmTree,401,405,961,971
+UndergroundCrypt,129,143,865,893

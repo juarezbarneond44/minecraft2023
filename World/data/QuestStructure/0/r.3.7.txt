@@ -1,0 +1,17 @@
+VillageWoodMill,1549,1562,3606,3622
+DinosaurSkeleton,1539,1548,3674,3720
+P_VillageFarmhouse,1574,1586,3584,3596
+RLCraft_cryo_bit,1557,1582,3645,3670
+P_VillageHouse,1589,1600,3606,3615
+SeasonsGreenhouse,1591,1601,3634,3646
+VillageLargeLibrary,1599,1619,3655,3674
+ThreeTowers,1604,1635,3606,3638
+RLCraft_BasicSpider,1616,1616,3900,3900
+RLCraft_UndergroundRuin1,1613,1622,3897,3906
+UndergroundCultChamber,1564,1606,3927,3959
+AbandonedWoodTower,1702,1738,4025,4055
+RLCraft_UndergroundFarm,1561,1603,4046,4089
+DinosaurSkeleton,1910,1919,4053,4099
+RLCraft_SmallUndergroundSkeleton,1940,1948,4041,4049
+MonolythUnholy,1982,1996,3972,3986
+P_TreeDungeon,1901,1943,3802,3847

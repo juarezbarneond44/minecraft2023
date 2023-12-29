@@ -1,0 +1,13 @@
+RLCraft_BasicZombie,8727,8727,-4244,-4244
+RLCraft_UndergroundRuin1,8721,8730,-4250,-4241
+SeasonsGreenhouse,8736,8746,-4266,-4254
+VillageWoodMill,8731,8744,-4236,-4220
+VillageTriplets,8758,8772,-4297,-4283
+VillageInn,8758,8785,-4261,-4241
+StonePlantMound,8723,8728,-4389,-4384
+P_VillageInn,8788,8797,-4296,-4285
+MysticalTree,8786,8802,-4234,-4219
+RLCraft_Vineyard,8777,8805,-4236,-4216
+StonePlantBoulder,8727,8737,-4413,-4403
+RLCraft_DecentZombie,8768,8768,-4163,-4163
+RLCraft_UndergroundRuin3,8766,8774,-4166,-4158

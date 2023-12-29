@@ -1,0 +1,15 @@
+StoneMazeFountain,8189,8197,-3428,-3420
+StoneMazePath,8192,8194,-3419,-3417
+StoneMazePathBig,8189,8197,-3437,-3429
+StoneMazePath,8192,8194,-3416,-3414
+StoneMazePath,8192,8194,-3440,-3438
+StoneMazePath,8192,8194,-3443,-3441
+StoneMazePath,8195,8197,-3443,-3441
+StoneMazePathBig,8189,8197,-3413,-3405
+StoneMazePath,8192,8194,-3446,-3444
+StoneMazePath,8195,8197,-3440,-3438
+StoneMazePath,8192,8194,-3449,-3447
+StoneMazePath,8192,8194,-3452,-3450
+StoneMazeEndChest,8195,8197,-3452,-3450
+StoneMazePath,8195,8197,-3416,-3414
+BlazeSpawnerCrystal,8189,8195,-3209,-3203

@@ -1,0 +1,12 @@
+StonePlantMound2,2362,2375,4716,4728
+SmallAbandonedOutpost,2334,2364,4697,4719
+P_WitchDungeon,2354,2371,4928,4962
+WoodWallRemains,2299,2327,4732,4740
+StonePlantMound3,2327,2338,4940,4949
+RLCraft_SmallUndergroundSkeleton,2316,2324,4965,4973
+StonePlantMound2,2314,2326,5004,5017
+StoneBoulder,2296,2305,4947,4956
+RLCraft_BasicSpider,2304,2304,5014,5014
+RLCraft_UndergroundRuin1,2298,2307,5008,5017
+StonePlantMound4,2307,2314,5027,5034
+StonePlantBoulder,2220,2230,4947,4957
