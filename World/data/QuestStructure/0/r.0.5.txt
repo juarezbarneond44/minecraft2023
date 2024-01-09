@@ -287,3 +287,5 @@ DinosaurSkeleton,-421,-412,2649,2695
 ClayWaterMound,-371,-363,2572,2579
 StonePlantMound,-317,-312,2649,2654
 SmallWoodenCottage,-286,-275,2591,2599
+StoneLeafMound,498,507,2628,2635
+StonePlantBoulder,368,378,2571,2581

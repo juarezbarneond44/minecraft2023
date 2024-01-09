@@ -1,0 +1,13 @@
+StonePlantMound3,-1443,-1432,-1105,-1096
+StonePlantBoulder,-1300,-1290,-1112,-1102
+StoneLeafMound,-1383,-1376,-1144,-1135
+ThreeTowers,-1450,-1419,-1172,-1140
+StoneLeafMound,-1382,-1375,-1170,-1161
+StonePlantMound,-1186,-1181,-1160,-1155
+RLCraft_Vineyard,-1413,-1393,-1214,-1186
+P_VillageFarmhouse,-1450,-1438,-1191,-1179
+VillageWoodMill,-1450,-1434,-1223,-1210
+SeasonsGreenhouse,-1429,-1417,-1222,-1212
+StonePlantMound3,-1514,-1503,-1083,-1074
+ShrineSmallAir,-1377,-1369,-1244,-1236
+P_Crater,-1573,-1490,-1163,-1087

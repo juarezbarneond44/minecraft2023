@@ -1,0 +1,2 @@
+StonePlantMound4,60,67,42,49
+SmallWoodenCottage,32,40,58,69

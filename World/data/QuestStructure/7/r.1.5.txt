@@ -1,0 +1,7 @@
+StonePlantMound2,552,564,2977,2990
+RLCraft_SmallUndergroundSkeleton,526,534,2907,2915
+RLCraft_DecentSpider,582,582,2821,2821
+RLCraft_UndergroundRuin3,577,585,2815,2823
+StonePlantMound4,595,602,2816,2823
+DinosaurSkull,591,602,2851,2870
+StoneBoulder,607,616,3011,3020

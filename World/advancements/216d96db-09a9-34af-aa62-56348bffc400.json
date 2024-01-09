@@ -463,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-01-03 21:44:18 +0000"
+    },
+    "done": true
+  },
   "craftablechainmail:craft_iron_nugget": {
     "criteria": {
       "iron_nugget": "2023-12-21 17:26:58 +0000"
@@ -835,6 +841,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2023-12-22 07:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-01-03 21:44:18 +0000"
     },
     "done": true
   },

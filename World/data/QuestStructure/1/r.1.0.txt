@@ -1,0 +1,5 @@
+RLCraft_End_Monolyth,992,1008,-387,-371
+RLCraft_End_Ship_Split_Back,970,994,-440,-425
+RLCraft_End_Obsidian_Spike_3,921,937,-473,-447
+RLCraft_End_Ship_Split_Front,860,884,-143,-128
+RLCraft_End_Floating_Crystal,1015,1029,-488,-474

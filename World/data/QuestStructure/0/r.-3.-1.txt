@@ -1,0 +1,12 @@
+MeteorSite,-1564,-1549,-530,-500
+StonePlantMound4,-1586,-1579,-620,-613
+StonePlantMound1,-1579,-1573,-983,-977
+StonePlantMound3,-1671,-1660,-982,-973
+SmallOutpost,-1881,-1851,-902,-880
+WoodThorn,-2000,-1989,-887,-876
+StonePlantMound4,-1842,-1835,-889,-882
+StonePlantMound3,-1802,-1791,-876,-867
+StoneLeafMound,-1930,-1923,-859,-850
+RLCraft_DecentZombie,-1881,-1881,-833,-833
+RLCraft_UndergroundRuin2,-1886,-1876,-835,-828
+StonePlantMound4,-1949,-1942,-823,-816

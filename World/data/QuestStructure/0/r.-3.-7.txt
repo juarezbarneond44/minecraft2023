@@ -1,0 +1,14 @@
+P_TreeDungeon,-2049,-2007,-4105,-4060
+StonePlantMound2,-2039,-2026,-3916,-3904
+StoneBoulder,-2019,-2010,-3983,-3974
+RLCraft_BasicSpider,-2014,-2014,-3826,-3826
+RLCraft_UndergroundRuin1,-2020,-2011,-3832,-3823
+RLCraft_DecentSpider,-2009,-2009,-3953,-3953
+RLCraft_UndergroundRuin3,-2011,-2003,-3956,-3948
+StoneLeafMound,-1872,-1865,-4097,-4088
+RLCraft_DecentSkeleton,-1845,-1845,-4020,-4020
+RLCraft_UndergroundRuin2,-1850,-1843,-4025,-4015
+VillageMarketplace,-1786,-1772,-3989,-3975
+SeasonsGreenhouse,-1822,-1812,-3962,-3950
+VillageTriplets,-1805,-1791,-3962,-3948
+VillageWoodMill,-1782,-1769,-3962,-3946

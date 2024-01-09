@@ -1,0 +1,11 @@
+RLCraft_DecentSpider,589,589,3537,3537
+RLCraft_UndergroundRuin2,584,591,3532,3542
+MysticalTree1,825,838,3574,3585
+StonePlantMound4,914,921,3460,3467
+StonePlantMound1,744,750,3457,3463
+StonePlantMound4,819,826,3447,3454
+DinosaurSkull,582,593,3354,3373
+WitchPillars,519,536,3566,3583
+StonePlantMound3,743,754,3339,3348
+StonePlantMound3,583,594,3135,3144
+StonePlantMound3,533,542,3098,3109

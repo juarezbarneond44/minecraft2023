@@ -1,0 +1,2 @@
+StoneLeafMound,-2317,-2310,-2925,-2916
+StonePlantMound2,-2328,-2316,-2837,-2824

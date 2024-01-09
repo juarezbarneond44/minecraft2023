@@ -1,0 +1,15 @@
+StonePlantMound4,511,518,1307,1314
+StoneBoulder,521,530,1431,1440
+StonePlantMound3,521,532,1158,1167
+StonePlantMound,534,539,1336,1341
+StoneBoulder,540,549,1443,1452
+StonePlantMound4,570,577,1296,1303
+UndergroundCultChamber,579,611,1180,1222
+StonePlantMound4,571,578,1446,1453
+RLCraft_SmallUndergroundSkeleton,529,537,1033,1041
+RLCraft_BasicZombie,622,622,1129,1129
+RLCraft_UndergroundRuin1,616,625,1126,1135
+DesertHut,627,637,1173,1182
+DesertWatchtower,634,644,1115,1125
+StoneLeafMound,670,679,1279,1286
+StonePlantMound2,689,702,1238,1250

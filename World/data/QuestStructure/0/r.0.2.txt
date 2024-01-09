@@ -62,3 +62,10 @@ StonePlantMound3,72,83,1132,1141
 DinosaurSkull,94,105,1088,1107
 P_DesertTemple,141,190,1057,1107
 ShrineSmallAir,-56,-48,1264,1272
+RLCraft_PlainsCamp,-39,7,1467,1506
+ShrineSmallAir,-72,-64,1513,1521
+FallenPalmTree,8,12,1443,1453
+StoneLeafMound,-91,-84,1396,1405
+Tree_Oak_TheMushroomOak_v3,-91,-32,1401,1451
+StonePlantMound4,-486,-479,1523,1530
+StonePlantMound1,-444,-438,1522,1528

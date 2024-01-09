@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-12-20 00:36:57 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2023-12-30 06:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-12-20 00:36:57 +0000"
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2023-12-20 01:18:08 +0000"
@@ -218,6 +236,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2023-12-26 21:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -275,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2023-12-20 00:22:47 +0000"
@@ -329,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2023-12-30 05:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-12-20 22:05:23 +0000"
@@ -365,9 +401,12 @@
       "cooked_mutton": "2023-12-21 00:13:14 +0000",
       "cooked_beef": "2023-12-20 00:59:38 +0000",
       "baked_potato": "2023-12-20 01:11:25 +0000",
+      "apple": "2023-12-30 03:57:35 +0000",
       "bread": "2023-12-20 22:17:54 +0000",
       "cooked_rabbit": "2023-12-20 00:37:24 +0000",
       "cooked_chicken": "2023-12-21 22:38:20 +0000",
+      "enchanted_golden_apple": "2023-12-30 04:16:08 +0000",
+      "cooked_salmon": "2023-12-31 03:43:56 +0000",
       "carrot": "2023-12-27 23:01:25 +0000"
     },
     "done": false
@@ -425,6 +464,12 @@
       "has_gravel": "2023-12-20 00:17:36 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "swamp_defiled": "2023-12-29 23:41:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
@@ -868,14 +913,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2023-12-29 22:21:02 +0000",
+      "wither_skeleton": "2023-12-31 04:56:36 +0000",
       "zombie_villager": "2023-12-27 23:23:28 +0000",
+      "magma_cube": "2023-12-31 05:06:08 +0000",
       "skeleton": "2023-12-21 03:26:22 +0000",
+      "husk": "2023-12-31 03:32:49 +0000",
+      "blaze": "2023-12-30 04:49:57 +0000",
       "evoker": "2023-12-28 00:00:58 +0000",
       "zombie": "2023-12-20 00:38:28 +0000",
       "cave_spider": "2023-12-27 21:48:52 +0000",
       "silverfish": "2023-12-28 20:01:26 +0000",
       "witch": "2023-12-27 22:46:54 +0000",
       "spider": "2023-12-20 00:34:36 +0000",
+      "ghast": "2023-12-30 04:39:18 +0000",
       "creeper": "2023-12-27 21:42:30 +0000",
       "enderman": "2023-12-26 20:47:28 +0000"
     },
@@ -902,6 +952,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2023-12-21 00:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-12-30 05:37:26 +0000"
     },
     "done": true
   },
@@ -935,9 +991,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2023-12-20 23:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -1115,6 +1183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2023-12-21 22:37:59 +0000"
@@ -1154,6 +1228,12 @@
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2023-12-21 22:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-12-31 04:55:08 +0000"
     },
     "done": true
   },
@@ -1337,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2023-12-28 01:25:43 +0000"
@@ -1364,6 +1450,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-12-20 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -1406,6 +1498,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-12-20 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -1523,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2023-12-30 05:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2023-12-27 23:08:47 +0000"
@@ -1613,6 +1717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2023-12-31 03:05:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2023-12-27 23:08:27 +0000"
@@ -1629,6 +1739,7 @@
     "criteria": {
       "forest": "2023-12-27 23:58:28 +0000",
       "beaches": "2023-12-20 00:08:38 +0000",
+      "extreme_hills_with_trees": "2023-12-31 03:39:14 +0000",
       "desert_hills": "2023-12-29 04:16:04 +0000",
       "forest_hills": "2023-12-28 00:11:14 +0000",
       "savanna": "2023-12-20 00:10:03 +0000",
@@ -1656,6 +1767,12 @@
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2023-12-20 23:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -1698,6 +1815,18 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2023-12-26 21:01:59 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "swamp_defiled": "2023-12-29 23:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -1755,9 +1884,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2023-12-20 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },
@@ -1809,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2023-12-30 06:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-12-20 23:17:47 +0000"
@@ -1842,6 +1989,12 @@
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2023-12-20 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2023-12-30 06:05:13 +0000"
     },
     "done": true
   },
@@ -1899,6 +2052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2023-12-21 23:15:00 +0000"
@@ -1932,6 +2091,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_netherbrick": "2023-12-29 22:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2023-12-30 06:20:12 +0000"
     },
     "done": true
   },

@@ -1,0 +1,11 @@
+StoneBoulder,-1449,-1440,-5172,-5163
+StonePlantMound2,-1246,-1234,-5168,-5155
+StonePlantMound,-1170,-1165,-5190,-5185
+StonePlantMound4,-1368,-1361,-5205,-5198
+StonePlantMound2,-1347,-1335,-5257,-5244
+RLCraft_DecentSkeleton,-1415,-1415,-5290,-5290
+RLCraft_UndergroundRuin2,-1417,-1410,-5295,-5285
+ShrineSmallAir,-1294,-1286,-5307,-5299
+RLCraft_AgentStarbuck_WaterBase,-1089,-1072,-5220,-5208
+RLCraft_PlainsCamp,-1311,-1265,-5363,-5324
+P_SmallShip,-1091,-1085,-5375,-5355

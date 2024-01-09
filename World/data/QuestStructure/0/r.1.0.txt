@@ -39,3 +39,5 @@ PyramidMazePath,767,769,-317,-315
 PyramidMazePath,764,766,-317,-315
 SmallPyramid,746,778,-326,-290
 RLCraft_SmallUndergroundSkeleton,778,786,-324,-316
+SmallFortRuins,522,552,475,507
+P_WitchDungeon,597,631,179,196

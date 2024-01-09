@@ -23,3 +23,6 @@ RLCraft_BasicCaveSpider,-9,-9,289,289
 RLCraft_UndergroundRuin1,-15,-6,283,292
 StonePlantMound4,-34,-27,330,337
 MysticalTree,-47,-32,392,408
+RLCraft_SmallUndergroundSkeleton,472,480,449,457
+ShrineSmallFire,504,514,489,499
+SmallWoodenCottage,501,512,172,180

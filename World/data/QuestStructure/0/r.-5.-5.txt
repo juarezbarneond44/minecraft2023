@@ -1,0 +1,11 @@
+RLCraft_DecentCaveSpider,-2884,-2884,-2620,-2620
+RLCraft_UndergroundRuin2,-2889,-2879,-2622,-2615
+SmallAbandonedMine,-2973,-2948,-2646,-2631
+RLCraft_BasicWitch,-2923,-2923,-2712,-2712
+RLCraft_UndergroundRuin1,-2929,-2920,-2715,-2706
+ShrineSmallEarth,-3001,-2989,-2853,-2841
+RLCraft_SmallUndergroundSkeleton,-2804,-2796,-2880,-2872
+P_MayanTemple3,-2875,-2822,-2945,-2901
+RLCraft_SmallUndergroundSkeleton,-2960,-2952,-2959,-2951
+RLCraft_DecentZombie,-2979,-2979,-2989,-2989
+RLCraft_UndergroundRuin2,-2981,-2974,-2994,-2984

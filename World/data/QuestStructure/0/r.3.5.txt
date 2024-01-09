@@ -5,3 +5,4 @@ StonePlantMound1,1971,1977,2867,2873
 StonePlantMound3,1944,1955,3020,3029
 StonePlantBoulder,1916,1926,2910,2920
 StonePlantMound1,2035,2041,2810,2816
+ShrineSmallAir,1582,1590,2998,3006

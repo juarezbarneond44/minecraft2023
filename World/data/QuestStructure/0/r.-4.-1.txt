@@ -1,0 +1,5 @@
+ClayWaterMound,-2063,-2056,-798,-790
+StonePlantBoulder,-2107,-2097,-914,-904
+StonePlantMound1,-2119,-2113,-822,-816
+RLCraft_SmallUndergroundSkeleton,-2201,-2193,-936,-928
+Tree_Oak_TheMushroomOak_v3,-2249,-2199,-966,-907

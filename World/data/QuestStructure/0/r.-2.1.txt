@@ -1,0 +1,4 @@
+RLCraft_UndergroundFarm,-1526,-1484,980,1023
+WoodWallRemains,-1531,-1503,974,982
+StoneBoulder,-1486,-1477,915,924
+StonePlantBoulder,-1534,-1524,885,895

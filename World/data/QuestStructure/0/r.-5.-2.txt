@@ -1,0 +1,12 @@
+ShrineSmallAir,-2571,-2563,-1203,-1195
+StonePlantMound2,-2582,-2570,-1476,-1463
+StoneBoulder,-2614,-2605,-1346,-1337
+SmallWoodenCottage2,-2579,-2571,-1513,-1505
+StoneBoulder,-2629,-2620,-1265,-1256
+StonePlantMound1,-2622,-2616,-1242,-1236
+StoneLeafMound,-2648,-2641,-1401,-1392
+StoneLeafMound,-2639,-2632,-1296,-1287
+StoneLeafMound,-2706,-2699,-1415,-1406
+StonePlantMound,-2723,-2718,-1504,-1499
+StonePlantBoulder,-2728,-2718,-1497,-1487
+BrickHenge,-2759,-2743,-1540,-1524

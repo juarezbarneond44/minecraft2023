@@ -1,0 +1,11 @@
+RLCraft_DecentZombie,1069,1069,3063,3063
+RLCraft_UndergroundRuin3,1063,1071,3060,3068
+StonePlantMound,1190,1195,3032,3037
+StonePlantMound4,1196,1203,2957,2964
+ClayWaterMound,1407,1414,3025,3033
+StonePlantBoulder,1375,1385,2934,2944
+StonePlantMound2,1424,1436,3039,3052
+StoneLeafMound,1392,1399,2917,2926
+RLCraft_DecentSkeleton,1158,1158,2887,2887
+RLCraft_UndergroundRuin3,1155,1163,2885,2893
+StoneBoulder,1427,1436,3059,3068

@@ -5,3 +5,11 @@ NetherThorn1,581,597,830,849
 NetherThorn2,620,633,945,957
 NetherThorn4,634,654,852,874
 NetherThorn2,652,665,945,957
+NetherThorn1,805,821,977,996
+NetherThorn2,754,767,750,762
+NetherThorn4,695,715,706,728
+NetherThorn2,875,888,966,978
+NetherThorn4,893,913,903,925
+NetherThorn,556,582,530,548
+NetherThorn2,639,651,535,548
+NetherThorn5,640,665,515,526

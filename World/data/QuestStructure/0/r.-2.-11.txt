@@ -1,0 +1,2 @@
+RLCraft_BasicSpider,-1058,-1058,-5856,-5856
+RLCraft_UndergroundRuin1,-1061,-1052,-5862,-5853

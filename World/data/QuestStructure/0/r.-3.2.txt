@@ -1,3 +1,15 @@
 StonePlantMound2,-1705,-1693,1448,1461
 MysticalTree,-1695,-1679,1456,1471
 StonePlantBoulder,-1692,-1682,1444,1454
+StonePlantBoulder,-1621,-1611,1490,1500
+StoneBoulder,-1576,-1567,1413,1422
+ShrineSmallEarth,-1669,-1657,1404,1416
+StoneLeafMound,-1634,-1627,1379,1388
+StonePlantMound2,-1648,-1635,1363,1375
+ClayWaterMound1,-1681,-1670,1281,1291
+RLCraft_BasicSkeleton,-1729,-1729,1284,1284
+RLCraft_UndergroundRuin1,-1732,-1723,1281,1290
+ClayWaterMound1,-1721,-1711,1243,1254
+StoneLeafMound,-1637,-1628,1235,1242
+BrickHenge,-1606,-1590,1193,1209
+StoneLeafMound,-1703,-1694,1113,1120

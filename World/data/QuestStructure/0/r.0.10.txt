@@ -28,3 +28,5 @@ StoneMazePath,-223,-221,5569,5571
 StoneMazeSmall,-232,-209,5569,5592
 RLCraft_DecentSpider,-186,-186,5605,5605
 RLCraft_UndergroundRuin2,-188,-181,5600,5610
+RLCraft_SmallUndergroundSkeleton,-82,-74,5362,5370
+P_SeasidePort,261,289,5138,5163

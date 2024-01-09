@@ -9,3 +9,5 @@ RLCraft_DecentWitch,47,47,940,940
 RLCraft_UndergroundRuin2,45,52,935,945
 FallenPalmTree,401,405,961,971
 UndergroundCrypt,129,143,865,893
+RLCraft_DecentZombie,417,417,857,857
+RLCraft_UndergroundRuin2,412,419,852,862

@@ -1,0 +1,2 @@
+RLCraft_End_Meteor_Site,1643,1664,-555,-520
+RLCraft_End_Obsidian_Spike_4,1563,1578,-842,-830

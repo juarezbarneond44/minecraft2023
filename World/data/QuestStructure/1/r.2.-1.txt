@@ -1,0 +1,2 @@
+RLCraft_End_Obsidian_Spike_1,1407,1433,-809,-796
+RLCraft_End_Obsidian_Tree,1375,1404,-835,-795

@@ -1,0 +1,4 @@
+WoodWallRemains,-2337,-2329,-1553,-1525
+StonePlantMound4,-2529,-2522,-1552,-1545
+StonePlantMound3,-2336,-2327,-1580,-1569
+Tree_Oak_TheMushroomOak_v3,-2379,-2329,-1662,-1603

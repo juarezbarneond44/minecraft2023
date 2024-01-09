@@ -1,0 +1,16 @@
+StoneLeafMound,663,672,3687,3694
+StonePlantMound3,599,608,3756,3767
+StonePlantMound1,584,590,3619,3625
+SmallWoodenCottage1,581,592,3611,3617
+RLCraft_BasicZombie,623,623,3790,3790
+RLCraft_UndergroundRuin1,617,626,3787,3796
+StonePlantMound4,567,574,3601,3608
+StonePlantBoulder,707,717,3770,3780
+UndergroundTreeoid,773,799,3714,3737
+StoneLeafMound,844,853,3656,3663
+StonePlantMound4,906,913,3614,3621
+SmallAbandonedMine,893,908,3607,3632
+RLCraft_DecentWitch,888,888,3763,3763
+RLCraft_UndergroundRuin2,883,893,3758,3765
+StonePlantBoulder,551,561,3619,3629
+StonePlantMound2,513,526,3579,3591

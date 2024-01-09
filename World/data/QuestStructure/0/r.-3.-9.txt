@@ -1,0 +1,12 @@
+StoneBoulder,-1691,-1682,-4636,-4627
+RLCraft_DecentWitch,-1698,-1698,-4633,-4633
+RLCraft_UndergroundRuin2,-1700,-1693,-4638,-4628
+UndergroundCultChamber,-1766,-1724,-4663,-4631
+StonePlantBoulder,-1783,-1773,-4671,-4661
+RLCraft_UndergroundFarm,-1642,-1600,-4714,-4671
+SmallWoodenCottage2,-1707,-1699,-4726,-4718
+StonePlantMound1,-1691,-1685,-4741,-4735
+StonePlantMound4,-1562,-1555,-4752,-4745
+StonePlantMound2,-1691,-1679,-4919,-4906
+RLCraft_PhilbosaurusRex,-1680,-1606,-4977,-4944
+StonePlantMound4,-1544,-1537,-5089,-5082

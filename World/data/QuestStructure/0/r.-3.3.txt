@@ -11,3 +11,12 @@ ShrineSmallAir,-1740,-1732,1750,1758
 StonePlantMound3,-1562,-1553,1598,1609
 StonePlantMound4,-1838,-1831,1728,1735
 StonePlantMound3,-1712,-1703,1554,1565
+StonePlantMound1,-1867,-1861,1969,1975
+StonePlantMound4,-1879,-1872,1838,1845
+RLCraft_DecentCaveSpider,-1889,-1889,1776,1776
+RLCraft_UndergroundRuin3,-1892,-1884,1774,1782
+StoneBoulder,-1898,-1889,1855,1864
+RLCraft_DecentWitch,-1899,-1899,1751,1751
+RLCraft_UndergroundRuin2,-1901,-1894,1746,1756
+StonePlantMound2,-1945,-1932,1891,1903
+StonePlantMound4,-2042,-2035,1776,1783

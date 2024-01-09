@@ -345,3 +345,5 @@ StoneBoulder,74,83,3107,3116
 StonePlantMound2,-21,-8,3137,3149
 ShrineSmallEarth,-8,4,3133,3145
 WitchPillars,42,59,3119,3136
+RLCraft_DecentSkeleton,-304,-304,3561,3561
+RLCraft_UndergroundRuin3,-306,-298,3556,3564

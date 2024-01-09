@@ -1,0 +1,4 @@
+StonePlantMound3,-2823,-2812,-1702,-1693
+ShrineSmallAir,-2765,-2757,-1907,-1899
+RLCraft_DecentCaveSpider,-2918,-2918,-1874,-1874
+RLCraft_UndergroundRuin2,-2920,-2913,-1879,-1869

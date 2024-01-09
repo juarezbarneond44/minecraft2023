@@ -18,3 +18,9 @@ SmallWoodenCottage1,817,823,2940,2951
 RLCraft_BasicSkeleton,932,932,2881,2881
 RLCraft_UndergroundRuin1,929,938,2878,2887
 BigClockworkSite,812,857,2834,2869
+RLCraft_SmallUndergroundSkeleton,635,643,2748,2756
+StonePlantMound2,606,619,2748,2760
+StoneLeafMound,569,576,2663,2672
+StoneLeafMound,525,534,2600,2607
+RLCraft_BasicZombie,583,583,2560,2560
+RLCraft_UndergroundRuin1,580,589,2557,2566
